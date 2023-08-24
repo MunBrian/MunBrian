@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munbrian&label=Profile%20views&color=0e75b6&style=flat" alt="munbrian" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [https://mungaibk.hashnode.dev/](https://mungaibk.hashnode.dev/)
 
